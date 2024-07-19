@@ -15,6 +15,25 @@
     </entry>
     
     
+    
+    <entry>
+      <title>分享HuaweiWatch2刷机包</title>
+      <link href="/2023/06/28/%E5%88%86%E4%BA%ABHuaweiWatch2%E5%88%B7%E6%9C%BA%E5%8C%85/"/>
+      <url>/2023/06/28/%E5%88%86%E4%BA%ABHuaweiWatch2%E5%88%B7%E6%9C%BA%E5%8C%85/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>不说别的，watch2绝对算得上神机，虽然现在有些过时足够用来折腾！</p><p>链接：<a href="https://pan.baidu.com/s/1H9o3SBo1UdsHSrXBE_TyGg">https://pan.baidu.com/s/1H9o3SBo1UdsHSrXBE_TyGg</a> 提取码: XMRX<br>刷机包通用 但是platform tools是linux的，因为比较难找所以直接给了，windows自己找一下，可能还需要驱动啥的<br>#</p><p>刷机指令</p><pre><code>fastboot oem unlock（此时会有yes/no两种选项，按一下电源键使yes变红，然后长按电源键）fastboot flash bootloader bootloder.imgfastboot flash boot boot.imgfastboot flash cache cache.imgfastboot flash recovery recovery.imgfastboot flash system system.imgfastboot flash userdata userdats.imgfastboot oem lock(不回锁每次开机都有安全提示）fastboot reboot(重启，然后用手机配对即可)</code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 资源分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
