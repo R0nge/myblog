@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>为什么你应该少用微信——浅谈超级应用</title>
+      <link href="/2024/07/20/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%91%E7%94%A8%E5%BE%AE%E4%BF%A1%E2%80%94%E2%80%94%E6%B5%85%E8%B0%88%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8/"/>
+      <url>/2024/07/20/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%91%E7%94%A8%E5%BE%AE%E4%BF%A1%E2%80%94%E2%80%94%E6%B5%85%E8%B0%88%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<p>请注意，本文所提到的“超级应用”为一种现象，不针对单一软件或公司，请不要对号入座</p><h2 id="啥是“超级应用”"><a href="#啥是“超级应用”" class="headerlink" title="啥是“超级应用”"></a>啥是“超级应用”</h2><p>在开始之前，我们先了解一下超级应用的定义</p><pre><code>    A super-app (also known as an everything-app and also written as super app or superapp) is a mobile or web application that can provide multiple services including payment and instant messaging services, effectively becoming an all-encompassing self-contained commerce and communication online platform that embraces many aspects of personal and commercial life. Notable examples of super-apps include Tencent&#39;s WeChat in China, Tata Neu in India, and Grab in Southeast Asia.     超级应用（又称万能应用，也写作超级应用或超级应用程序）是一种移动或 Web 应用程序，可以提供多种服务，包括支付和即时通讯服务，从而有效地成为一个包罗万象的独立商业和通信在线平台，涵盖个人和商业生活的方方面面。 超级应用的著名例子包括中国的腾讯微信、印度的 Tata Neu 和东南亚的 Grab。    原文：https://en.wikipedia.org/wiki/Super-app</code></pre><p>事实上，国内常见的两个就是微信和支付宝</p><h2 id="浅谈“超级应用”-——-我们为什么要提高警惕"><a href="#浅谈“超级应用”-——-我们为什么要提高警惕" class="headerlink" title="浅谈“超级应用” —— 我们为什么要提高警惕"></a>浅谈“超级应用” —— 我们为什么要提高警惕</h2><p>简单列出几点弊端<br><strong>1.垄断性极强，一家独大</strong><br>这点不用多说了吧，除了wx恐怕很难找出相当规模的应用了，wx几乎是除电话外为数不多的联系方式了<br>并且，由于已经积攒了大量的用户数据，以及支付功能，软件及服务已经相当完善，市场内没有能与之竞争的竞品，基本做到了说一不二<br><strong>2.数据安全与数据强权</strong></p><pre><code>    2020 年，Tokopedia就出现了数据泄露情况，9100 万用户的数据被黑客窃取和共享。    人们还注意到，失去账户访问权限或被禁止使用超级应用程序的用户，通常会失去对多种现实生活服务和数字应用程序的访问权限。    ——摘自维基百科</code></pre><p>书接上文，由于用户量巨大，提供服务多，用户信息庞大，超级应用在使用时也存在大量隐患。<strong>必须准备好数据泄漏的风险</strong> 鉴于一些特殊的环境，你的<strong>聊天信息</strong>和<strong>个人信息</strong>也可能被某些组织甚至企业本身偷窥。<strong>你的wx里是否保存了一些密码和隐私呢，好好考虑一下吧</strong></p><p>另外，你的账户和权限在别人手里，你如何保证自己不会被莫名其妙地封号，与朋友失联呢</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>超级应用的确给我们呢带来了便利，但请在享受时多考虑一下，如果有件事看起来太好了，不像是真的，那可能确实如此。<br>另外，<strong>为失败做好准备</strong>，针对上述一些情况和可能发生的意外，制定备用方案和渠道——这就取决于您的安全意识了！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Welcome</title>
       <link href="/2024/07/16/hello-world/"/>
       <url>/2024/07/16/hello-world/</url>
