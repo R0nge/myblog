@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>扫盲桌面操作系统</title>
+      <link href="/2024/07/21/%E6%89%AB%E7%9B%B2%E6%A1%8C%E9%9D%A2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+      <url>/2024/07/21/%E6%89%AB%E7%9B%B2%E6%A1%8C%E9%9D%A2%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>今天我们主要讲讲生活中常见的操作系统，希望能让你了解一些除Windows以外的操作系统，并且能做出自己的选择 ：）<br><strong>本文所有操作系统特指桌面端</strong></p><h1 id="P1-Windows"><a href="#P1-Windows" class="headerlink" title="P1 Windows"></a>P1 Windows</h1><p>从安全性的角度上说，本文【不推荐】此系统，甚至不想写。但是由于windows系统比较广泛，所以简单写一些。<br>我认为，Windows系统【不推荐】的原因主要有如下几点</p><h2 id="糟糕的开发团队"><a href="#糟糕的开发团队" class="headerlink" title="糟糕的开发团队"></a>糟糕的开发团队</h2><p>事实上我对系统开发并不了解，但是根据一些现有消息和个人的体验，还是有一些内容可说<br>1.Windows开发团队近几年被削减的很严重，微软已经把营销的重点放在了搞钱上，系统的开发已经非常混乱。<br>2.由多个团队开发，彼此之间根本没有协调性<br>3.祖传代码，架构老，每次都是在原基础上修修补补，bug自然是不用说</p><h2 id="树大招风-自身漏洞"><a href="#树大招风-自身漏洞" class="headerlink" title="树大招风+自身漏洞"></a>树大招风+自身漏洞</h2><p>1.用户量多，所以定制的病毒自然多，毕竟是重点攻击对象<br>2.没有像linux一样完善的文件权限，比如我就干过把exe伪装成图片的事……<br>3.臭名昭著的ie以及<a href="https://learn.microsoft.com/en-us/security-updates/acknowledgments/2017/acknowledgments2017">很多漏洞</a></p><h2 id="一些妥协的建议"><a href="#一些妥协的建议" class="headerlink" title="一些妥协的建议"></a>一些妥协的建议</h2><p>叨叨半天，我知道一般人也离不开Windows，毕竟大部分游戏都需要Windows平台的支持（虽然一些Linux发行版也在尝试，不过效果嘛……），所以**建议你自己定制一下自己的系统，比如用个ltsc，定制一些预装应用 ——诸如此类，建议自己上网想办法</p><h1 id="P2-Linux"><a href="#P2-Linux" class="headerlink" title="P2 Linux"></a>P2 Linux</h1><p>这个估计大家听得多，用得少，也是本文介绍的重点</p><h2 id="Linux的优点如下"><a href="#Linux的优点如下" class="headerlink" title="Linux的优点如下"></a>Linux的优点如下</h2><p>1.发行版本多，个性化的可能性更高，可以因人而异，同时也避免了树大招风<br>2.开源，安全性有保障<br>3.玩法多样（只要肯折腾）<br>4.广泛的社区——基本上可以做到有求必应<br><strong>5.完善的软件包</strong><br><strong>6.适配性不错</strong>很多人说Linux兼容性不好，其实本人认为是够用的，archlinux针对中文用户就有很好的支持，比如<br>        <a href="https://wiki.archlinuxcn.org/wiki/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E6%9C%AC%E5%9C%B0%E5%8C%96">archlinuxcn中文本地化的文档</a><br>        <a href="https://www.archlinuxcn.org/archlinux-cn-repo-and-mirror/">archlinux丰富的软件库(链接里是一个第三方源，在国内速度很快)</a>包含wine-wechat等各种应用<br>        另外就算你需要的应用找不到，你也可以运行一个虚拟机（小提示：linux很多桌面版本功耗很低，同配置机型开虚拟机比Windows或macOS流畅很多）</p><h2 id="推荐几个linux发行版"><a href="#推荐几个linux发行版" class="headerlink" title="推荐几个linux发行版"></a>推荐几个linux发行版</h2><p>提示，Linux上手是有门槛的，需要掌握一些基础的命令行知识，有一定的技术能力和<strong>钻研精神</strong>，如果你对技术了解很少，不愿意投入大量时间，也懒得付出大量精力，那么请你<strong>不要使用Linux</strong>，或者寻找比较“懒人”的Linux系统</p><p>archlinux（可以原版，也可以manjaro等等，安装稍有难度，不过有图形化安装界面）archlinux的个性化程度比较强，有点像<strong>毛坯房</strong>，初次上手有难度</p><p>ubuntu （在Linux中人数较多，不过有些商业化，出现过一些丑闻）不过好处是几乎可以<strong>拎包入住</strong></p><p>Debian 稳定经典，本人用得少，所以不过多评论</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 操作系统 扫盲 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>为什么你应该少用微信——浅谈超级应用</title>
       <link href="/2024/07/20/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%91%E7%94%A8%E5%BE%AE%E4%BF%A1%E2%80%94%E2%80%94%E6%B5%85%E8%B0%88%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8/"/>
       <url>/2024/07/20/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%91%E7%94%A8%E5%BE%AE%E4%BF%A1%E2%80%94%E2%80%94%E6%B5%85%E8%B0%88%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8/</url>
